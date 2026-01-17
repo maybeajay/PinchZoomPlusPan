@@ -8,7 +8,6 @@ export default function useImagePicker() {
   async function handleImagePicker() {
     const result = await launchImageLibrary(IMAGE_PICKER_OPTIONS);
     if(!result?.didCancel && result?.assets){
-      console.log("result?.assets[0]", result?.assets[0])
       setpickedImage(result?.assets[0]?.uri)
     }
   }

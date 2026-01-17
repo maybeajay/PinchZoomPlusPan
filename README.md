@@ -1,3 +1,9 @@
+⚠️ Evaluation Only
+
+This project was created solely as part of a technical assignment.
+The code is not licensed for production use or redistribution.
+
+
 ### how to install
 
 use git clone to clone the repo and you will find the apk attached in the outputs folder 

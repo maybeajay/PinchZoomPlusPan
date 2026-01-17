@@ -1,3 +1,9 @@
+### how to install
+
+use git clone to clone the repo and you will find the apk attached in the outputs folder 
+in case if its not there
+just run npm i and then there is a command android-release run that after installing node modules
+
 ## important
 my explanation and logic and also the folder structure i followed
 mostly you will find comments in the code but explaining here as well
